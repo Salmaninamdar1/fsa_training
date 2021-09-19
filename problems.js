@@ -15,7 +15,7 @@ function isPrime(n) {
         if (isFactor(n, i)) count++;
     }
 
-    return count === 2;
+    return count === 4;
 
     // if (count === 2) return true;
     // return false;
