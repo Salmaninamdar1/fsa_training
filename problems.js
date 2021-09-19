@@ -24,9 +24,10 @@ function isPrime(n) {
     // else return false;
 }
 
-console.log(isPrime(16));
+console.log("is n a prime no? ",isPrime(16));
+
 
 var res2 = isPrime(5);
-console.log(res2);
-// isPrime(1);
+console.log("is res2 is= ",res2);
+// isPrime(1);  
 // isPrime(2);
