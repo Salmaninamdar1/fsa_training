@@ -38,7 +38,7 @@ function add(a, b) {
 
 // due to loosly type of language we can pass the function as parameter\argument
 
-// here we can 
+// by using typeof fuction line no 22&25 we will get the result not in the form of concatinate it will return in number from
 function f1() {
     return 200;
 }
