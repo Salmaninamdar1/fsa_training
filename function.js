@@ -27,6 +27,9 @@ function add(a, b) {
     }
     var c = a + b;
     return c;
+
+    // hellog
+    
 }
 // console.log(add(10, 20))
 // // this fuction will not work until we called it
